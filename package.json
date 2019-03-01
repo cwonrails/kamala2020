@@ -18,14 +18,14 @@
   },
   "homepage": "https://github.com/invegat/kamala2020/#readme",
   "dependencies": {
-    "body-parser": "^1.17.1",
-    "cors": "^2.8.3",
-    "express": "^4.15.2",
-    "mongodb": "^2.2.33",
-    "mongodb-core": "^2.1.17",
-    "mongodb-stitch": "^1.2.0",
-    "mongoose": "^4.13.5",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.13",
+    "mongodb-core": "^3.1.11",
+    "mongodb-stitch": "^3.2.15",
+    "mongoose": "^5.4.16",
     "path": "^0.12.7",
-    "sqlite3": "^3.1.13"
+    "sqlite3": "^4.0.6"
   }
 }
